@@ -1,5 +1,5 @@
-# CRUD-PHP
-CRUD PHP - MySQL - Bootstrap 
+# CRUD
+PHP - MySQL - Bootstrap 
 90% 
 
 Login
